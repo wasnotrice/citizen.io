@@ -8,3 +8,28 @@
 *= require "_layout/grid"
 
 */
+
+$red: #790c00;
+
+body {
+  background-color: $red;
+  color: #fff;
+}
+
+.masthead {
+  position: absolute;
+  bottom: 1em;
+  right: 1em;
+  text-align: right;
+
+  .company {
+    font-family: SoinSansPro-Headline;
+    font-size: 5em;
+    margin-bottom: -0.4em;
+  }
+
+  .tagline {
+    font-family: SoinSansPro-MediumOblique;
+    font-size: 1.2em;
+  }
+}

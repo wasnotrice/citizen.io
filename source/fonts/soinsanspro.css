@@ -1,0 +1,45 @@
+/* @license
+ * MyFonts Webfont Build ID 2475866, 2013-02-11T02:22:53-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Soin Sans Pro Medium Oblique by Stawix
+ * URL: http://www.myfonts.com/fonts/stawix/soin-sans-pro/medium-oblique/
+ * 
+ * Webfont: Soin Sans Pro Roman by Stawix
+ * URL: http://www.myfonts.com/fonts/stawix/soin-sans-pro/roman/
+ * 
+ * Webfont: Soin Sans Pro Oblique by Stawix
+ * URL: http://www.myfonts.com/fonts/stawix/soin-sans-pro/oblique/
+ * 
+ * Webfont: Soin Sans Pro Headline by Stawix
+ * URL: http://www.myfonts.com/fonts/stawix/soin-sans-pro/headline/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2475866
+ * Webfonts copyright: Copyright &#x00A9; 2013 by Stawix Ruecha. All rights reserved.
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+/*@import url("//hello.myfonts.net/count/25c75a");
+ */
+
+  
+@font-face {font-family: 'SoinSansPro-MediumOblique';src: url('webfonts/25C75A_0_0.eot');src: url('webfonts/25C75A_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/25C75A_0_0.woff') format('woff'),url('webfonts/25C75A_0_0.ttf') format('truetype'),url('webfonts/25C75A_0_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'SoinSansPro-Roman';src: url('webfonts/25C75A_1_0.eot');src: url('webfonts/25C75A_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/25C75A_1_0.woff') format('woff'),url('webfonts/25C75A_1_0.ttf') format('truetype'),url('webfonts/25C75A_1_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'SoinSansPro-Oblique';src: url('webfonts/25C75A_2_0.eot');src: url('webfonts/25C75A_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/25C75A_2_0.woff') format('woff'),url('webfonts/25C75A_2_0.ttf') format('truetype'),url('webfonts/25C75A_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'SoinSansPro-Headline';src: url('webfonts/25C75A_3_0.eot');src: url('webfonts/25C75A_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/25C75A_3_0.woff') format('woff'),url('webfonts/25C75A_3_0.ttf') format('truetype'),url('webfonts/25C75A_3_0.svg#wf') format('svg');}
+ 
