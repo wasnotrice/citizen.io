@@ -24,13 +24,29 @@ body {
 
   .company {
     font-family: SoinSansPro-Headline;
+    font-weight: normal;
     font-size: 3.5em;
     line-height: 1em;
     margin:0;
   }
 
   .tagline {
-    font-family: SoinSansPro-MediumOblique;
+    font-family: SoinSansPro-Oblique;
+    font-weight: normal;
     font-size: 1.2em;
+  }
+}
+
+/* Larger screens */
+@media screen and (min-width: 40em) {
+  .masthead {
+    .company {
+      font-size: 6em;
+      /*margin-bottom: -0.24em;*/
+    }
+
+    .tagline {
+      font-size: 2em;
+    }
   }
 }
